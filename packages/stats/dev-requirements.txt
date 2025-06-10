@@ -445,9 +445,9 @@ readme-renderer==37.3 ; python_version >= "3.8" and python_version < "3.12" \
 requests-toolbelt==0.10.1 ; python_version >= "3.8" and python_version < "3.12" \
     --hash=sha256:18565aa58116d9951ac39baa288d3adb5b3ff975c4f25eee78555d89e8f247f7 \
     --hash=sha256:62e09f7ff5ccbda92772a29f394a49c3ad6cb181d568b1337626b2abb628a63d
-requests==2.28.2 ; python_version >= "3.8" and python_version < "3.12" \
-    --hash=sha256:64299f4909223da747622c030b781c0d7811e359c37124b4bd368fb8c6518baa \
-    --hash=sha256:98b1b2782e3c6c4904938b84c0eb932721069dfdb9134313beff7c83c2df24bf
+requests==2.32.4 ; python_version >= "3.8" and python_version < "3.12" \
+    --hash=sha256:27babd3cda2a6d50b30443204ee89830707d396671944c998b5975b031ac2b2c \
+    --hash=sha256:27d0316682c8a29834d3264820024b62a36942083d52caf2f14c0591336d3422
 rfc3986==2.0.0 ; python_version >= "3.8" and python_version < "3.12" \
     --hash=sha256:50b1502b60e289cb37883f3dfd34532b8873c7de9f49bb546641ce9cbd256ebd \
     --hash=sha256:97aacf9dbd4bfd829baad6e6309fa6573aaf1be3f6fa735c8ab05e46cecb261c
