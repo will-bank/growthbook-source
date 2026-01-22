@@ -49,7 +49,7 @@
     "json-stringify-pretty-compact": "^3.0.0",
     "json2csv": "^5.0.7",
     "jstat": "^1.9.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "markdown-it": "^11.0.0",
     "markdown-it-mark": "^3.0.1",
     "markdown-it-sanitizer": "^0.4.3",
